@@ -12,5 +12,3 @@ Assignment1
 [x] Your site is hosted in a hosting service like Render.
 [x] All secrets, encryption keys, database passwords are stored in a .env file.
 [x] The .env file is NOT in your git repo.
-
-50/50
