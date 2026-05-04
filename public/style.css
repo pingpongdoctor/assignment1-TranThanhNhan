@@ -1,0 +1,11 @@
+#catImg {
+    border-radius: 20px;
+    width: 30%;
+    height: auto;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

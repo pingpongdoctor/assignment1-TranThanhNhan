@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "simon",
+  "license": "ISC",
+  "description": "assignment1",
+  "dependencies": {
+    "@exortek/express-mongo-sanitize": "^2.0.2",
+    "bcrypt": "^6.0.0",
+    "connect-mongo": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "fs": "^0.0.1-security",
+    "joi": "^18.1.2",
+    "mongodb": "^7.2.0"
+  }
+}
