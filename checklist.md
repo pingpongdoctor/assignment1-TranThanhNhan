@@ -1,4 +1,4 @@
-Student Name: Simon Tran
+Student Name: Thanh Nhan Tran (Simon)
 Student Set: A
 Assignment1
 

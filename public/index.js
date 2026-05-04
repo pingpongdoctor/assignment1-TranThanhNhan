@@ -36,7 +36,7 @@ getAjax("/user", (data) => {
 
     goToMembersAreaBtn.textContent = "Go to Members Area";
     goToMembersAreaBtn.addEventListener("click", (e) => {
-        window.location.href = "/member";
+        window.location.href = "/members";
     })
 
     logoutBtn.textContent = "Log out";
